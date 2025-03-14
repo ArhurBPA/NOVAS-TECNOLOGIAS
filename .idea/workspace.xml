@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="002c9151-2179-401c-87d5-35f6aca1d7ae" name="Changes" comment="primeira aula">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="002c9151-2179-401c-87d5-35f6aca1d7ae" name="Changes" comment="Resolvido">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +109,7 @@
       <updated>1741278815765</updated>
       <workItem from="1741278816857" duration="2438000" />
       <workItem from="1741890555158" duration="304000" />
-      <workItem from="1741891211813" duration="463000" />
+      <workItem from="1741891211813" duration="2468000" />
     </task>
     <task id="LOCAL-00001" summary="primeira aula">
       <option name="closed" value="true" />
@@ -116,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741891050741</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1741891725396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741891725396</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Resolvido">
+      <option name="closed" value="true" />
+      <created>1741892499364</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741892499364</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +143,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeira aula" />
-    <option name="LAST_COMMIT_MESSAGE" value="primeira aula" />
+    <MESSAGE value="test" />
+    <MESSAGE value="Resolvido" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolvido" />
   </component>
 </project>
